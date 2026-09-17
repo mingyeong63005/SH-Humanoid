@@ -4,10 +4,10 @@ Humanoid robot control project - URDF, MoveIt, Meta Quest integration
 
 ## Directory
 
-- `urdf_moveit/` : CAD → URDF 변환 및 MoveIt 설정
-- `meta_quest/` : Meta Quest 3 모션 트래킹 및 관절 정보 변환
-- `integration/` : Meta Quest - ROS 2 - MoveIt - 로봇 제어 연동
-- `docs/` : 공통 문서 및 통신/Joint 관련 정보
+- `urdf_moveit/` : CAD → URDF 변환 및 MoveIt 설정 등
+- `meta_quest/` : Meta Quest 3 모션 트래킹 및 관절 정보 변환 등
+- `integration/` : Meta Quest - ROS 2 - MoveIt - 로봇 제어 연동 등
+- `docs/` : 공통 문서 및 통신/Joint 관련 정보 등
 
 ## Development Environment
 
